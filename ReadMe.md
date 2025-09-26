@@ -31,13 +31,13 @@ Colours used: #AE16B3 #426699
 
 <p align = "center">
   
-   <a href="https://github.com/Akshu-on-github">
+   <a href="https://github.com/ManasPandey09">
     <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasPandey09&layout=compact&theme=radical&card_width=250">
   </a>
   <br>
   <br>
   <br>
- <a href="https://github.com/Akshu-on-github">
+ <a href="https://github.com/ManasPandey09">
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ManasPandey09&show_icons=true&hide=stars&theme=radical">
   </a>
   <br>
